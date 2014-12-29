@@ -1,1 +1,4 @@
 _site
+.picasa*
+picasa.ini
+templates/fisapp/img/team/.picasaoriginals/*
